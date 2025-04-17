@@ -134,7 +134,7 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+Wordle-Game/.venv
 env/
 venv/
 ENV/
